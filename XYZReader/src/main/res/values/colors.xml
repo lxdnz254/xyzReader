@@ -22,4 +22,13 @@
     <color name="theme_primary_dark">#04561A</color>
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
+
+    <!-- Main colors -->
+    <color name="yellow_300">#FFF176</color>
+    <color name="yellow_500">#FFEB3B</color>
+    <color name="yellow_700">#FBC02D</color>
+    <color name="lt_blue_a400">#00B0FF</color>
+    
+    <color name="color_accent">@color/lt_blue_a400</color>
+    <color name="primary_light">@color/yellow_300</color>
 </resources>
