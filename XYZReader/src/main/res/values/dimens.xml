@@ -12,5 +12,6 @@
     
     <dimen name="list_top_padding">8dp</dimen>
     <dimen name="list_bottom_padding">28dp</dimen>
+    <dimen name="toolbar_icon_margin_top">0dp</dimen>
 
 </resources>
